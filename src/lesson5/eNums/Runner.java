@@ -1,4 +1,6 @@
-package lesson6;
+package lesson5.eNums;
+
+import lesson5.eNums.BankCards;
 
 public class Runner {
     public static void main(String[] args) {
