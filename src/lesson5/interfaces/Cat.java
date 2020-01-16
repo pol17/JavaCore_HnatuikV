@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.interfaces;
 
 public class Cat extends Animal {
     private String animalName = "Cat";

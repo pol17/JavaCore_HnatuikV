@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.interfaces;
 
 public class Dog extends Animal implements Swim { //через implements наделяем собаку способностью плавать
     private String animalName = "Dog";

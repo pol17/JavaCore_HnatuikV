@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.interfaces;
 
 public abstract class Animal {
     protected int weight;

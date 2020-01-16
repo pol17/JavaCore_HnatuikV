@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.interfaces;
 
 public class Bird extends Animal implements Fly { //через implements наделяем птицу способностью летать
     private String animalName = "Bird";

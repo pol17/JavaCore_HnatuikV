@@ -1,4 +1,4 @@
-package lesson5;
+package lesson5.interfaces;
 
 public class Runner {
     public static void main(String[] args) {
